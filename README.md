@@ -11,7 +11,7 @@ FarmTrack helps farmers and ranchers track everything from crop and field activi
 - **Field & Crop Management** – Mapping, planting, spraying, fertilizing, and harvesting
 - **Equipment Tracker** – Service logs and usage tracking
 - **Weather + Almanac Tools** – Forecasts, planting tips, storm alerts
-- **Calendar + Reminders** – Centralized view of farm tasks
+- **Calendar + Reminders** – Centralized view of farm tasks, with the ability to sync reminders to your mobile phone calendar
 
 Each section is written in Markdown and organized into folders to simulate real-world documentation structure.
 
